@@ -29,4 +29,8 @@
         echo $Pet->owner(); */
 
 
+    // Static properties and methods
+    // $obj = new Student('Raj', 'Black', 21);
+    // echo $obj->getDA();
+
 ?>
